@@ -155,7 +155,7 @@ header .logo
   text-decoration: none;
   font-weight: 500;
   margin-top: 10px;
-  color: #111;
+  color: #40393E;
   letter-spacing: 2px;
   transition: 0.2s;
 }
@@ -246,6 +246,7 @@ header .logo
 .cta-btn {
   padding: 12px 30px;
   font-size: 20px;
+  color: #40393E;
 }
 
 .container {
@@ -452,6 +453,7 @@ input[type=email] {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
+  color: #40393E;
 }
 
 .steps {
@@ -546,11 +548,11 @@ span {
     padding: 10px;
   }
   .text h1 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
   }
   .text h2
   {
-    font-size: 3em;
+    font-size: 2em;
   }
   .text h3
   {
